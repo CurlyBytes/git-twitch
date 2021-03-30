@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bdougie/git-twitch.git"
+    "url": "git+https://github.com/MishManners/Unity-Project.git"
   },
   "author": "bdougie",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bdougie/git-twitch/issues"
   },
-  "homepage": "https://github.com/bdougie/git-twitch#readme",
+  "homepage": "https://github.com/MishManners/Unity-Project#readme",
   "dependencies": {
     "@octokit/webhooks": "^7.11.2",
     "dotenv": "^8.2.0",
