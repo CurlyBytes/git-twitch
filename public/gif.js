@@ -5,7 +5,7 @@ const img = new Image();
 /* Config */
 const twitchTvHandle = "GitHub";
 const repoOwner = "MishManners";
-const repoName = "MishManners/git-twitch";
+const repoName = "MishManners/Unity-Project";
 const PAUSE_DURATION = 30 * 1000; // 30 seconds
 const DISPLAY_DURATION = 20 * 1000; // 20 seconds
 
